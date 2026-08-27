@@ -29,7 +29,9 @@ class AyushVinodShinde:
 
     languages = [
         "Python",
+        "Java",
         "C++",
+        "C",
         "JavaScript"
     ]
 
