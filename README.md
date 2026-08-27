@@ -4,7 +4,7 @@
 
 ### AI & ML Enthusiast • Software Developer • Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush09006-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ayush09006)
+[![GitHub](https://img.shields.io/badge/GitHub-AyushShinde9999-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AyushShinde9999)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Shinde-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ayushshinde530/)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushvshinde@gmail.com)
 
