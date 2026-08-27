@@ -363,7 +363,7 @@ I'm interested in collaborating on:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush09006-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ayush09006)
+[![GitHub](https://img.shields.io/badge/GitHub-AyushShinde9999-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AyushShinde9999)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Vinod%20Shinde-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ayushshinde530/)
 
